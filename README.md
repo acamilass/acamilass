@@ -13,13 +13,15 @@
 ![Java](https://img.shields.io/badge/-Java-fcf7ff?style=flat&logo=java&logoColor=007396)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-fcf7ff?style=flat&logo=spring)&nbsp;
 
-### Projects
+### My projects
 
 <p align="left">
   <img height="145em" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy"/>&nbsp;
   <img height="145em" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=covid-app&theme=buefy"/>&nbsp;
   <img height="145em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy"/>&nbsp;
 </p>
+
+### My social media
 
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
