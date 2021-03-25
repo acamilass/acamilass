@@ -15,8 +15,10 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy)](https://github.com/acamilass/desafio-veiculos)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy)](https://github.com/acamilass/curso-fullstack-backend)
+<p align="left">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy"/>
+</p>
 
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
