@@ -13,10 +13,9 @@
 ![Java](https://img.shields.io/badge/-Java-fcf7ff?style=flat&logo=java&logoColor=007396)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-fcf7ff?style=flat&logo=spring)&nbsp;
 
-### My stats
+### Projects
 
-![Ana Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=acamilass&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acamilass&layout=compact)](https://github.com/acamilass/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos)](https://github.com/acamilass/desafio-veiculos)
 
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
