@@ -15,7 +15,7 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy)](https://github.com/acamilass/desafio-veiculos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy)](https://github.com/acamilass/desafio-veiculos)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy)](https://github.com/acamilass/curso-fullstack-backend)
 
 <!--
