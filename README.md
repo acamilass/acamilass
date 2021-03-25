@@ -6,11 +6,11 @@
 ### My skills
 
 ![HTML](https://img.shields.io/badge/-HTML-fcf7ff?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-fcf7ff?style=flat&logo=CSS3)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-fcf7ff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fcf7ff?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-fcf7ff?style=flat&logo=angular)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-fcf7ff?style=flat&logo=sass)&nbsp;
-![Java](https://img.shields.io/badge/-Java-fcf7ff?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-fcf7ff?style=flat&logo=java&logoColor=007396)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-fcf7ff?style=flat&logo=spring)&nbsp;
 
 <!--
