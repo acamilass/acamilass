@@ -5,7 +5,7 @@
 
 ### My skills
 
-![HTML](https://img.shields.io/badge/-HTML-ece5f0?style=flat&logo=html5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-e1eff6?style=flat&logo=html5)&nbsp;
 
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
