@@ -16,9 +16,9 @@
 ### Projects
 
 <p align="left">
-  <img height="145em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy"/>
-  <img height="145em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=covid-app&theme=buefy"/>
-  <img height="145em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy"/>
+  <img height="145em" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy"/>&nbsp;
+  <img height="145em" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=covid-app&theme=buefy"/>&nbsp;
+  <img height="145em" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy"/>&nbsp;
 </p>
 
 <!--
