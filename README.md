@@ -25,7 +25,7 @@
 
 <a href="https://www.linkedin.com/in/anacamilass/"><img src="https://img.shields.io/badge/-Ana_Camila_Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://acamilass.medium.com/"><img src="https://img.shields.io/badge/-acamilass-12100e?style=flat-square&logo=medium&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anacamilass/"><img src="https://img.shields.io/badge/-Ana_Camila_Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anacamilass/"><img src="https://img.shields.io/badge/-s.anacamila-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
