@@ -13,6 +13,10 @@
 ![Java](https://img.shields.io/badge/-Java-fcf7ff?style=flat&logo=java&logoColor=007396)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-fcf7ff?style=flat&logo=spring)&nbsp;
 
+### My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acamilass&layout=compact)](https://github.com/acamilass/github-readme-stats)
+
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
