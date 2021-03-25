@@ -13,14 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-fcf7ff?style=flat&logo=java&logoColor=007396)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-fcf7ff?style=flat&logo=spring)&nbsp;
 
-### My projects
-
-<p align="left">
-  <img height="110px" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos&theme=buefy"/>&nbsp;
-  <img height="110px" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=covid-app&theme=buefy"/>&nbsp;
-  <img height="110px" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend&theme=buefy"/>&nbsp;
-</p>
-
 ### My social media
 
 <a href="https://acamilass.dev/"><img src="https://img.shields.io/badge/-acamilass.dev-53A6BE?style=flat-square&logo=headspace&logoColor=white"/></a>
