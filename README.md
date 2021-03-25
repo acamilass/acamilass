@@ -16,6 +16,8 @@
 ### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=desafio-veiculos)](https://github.com/acamilass/desafio-veiculos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=covid-app)](https://github.com/acamilass/covid-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acamilass&repo=curso-fullstack-backend)](https://github.com/acamilass/curso-fullstack-backend)
 
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
