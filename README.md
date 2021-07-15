@@ -18,9 +18,10 @@
 <a href="https://acamilass.dev/"><img src="https://img.shields.io/badge/-acamilass.dev-53A6BE?style=flat-square&logo=headspace&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anacamilass/"><img src="https://img.shields.io/badge/-Ana_Camila_Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://acamilass.medium.com/"><img src="https://img.shields.io/badge/-acamilass-12100e?style=flat-square&logo=medium&logoColor=white"/></a>
+<!--
 <a href="https://www.facebook.com/acamilass/"><img src="https://img.shields.io/badge/-Ana_Camila_Santos-1877f2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/s.anacamila/"><img src="https://img.shields.io/badge/-s.anacamila-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
+-->
 <!--
 **acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
