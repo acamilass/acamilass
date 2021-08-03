@@ -1,7 +1,7 @@
 ## Hi, I'm Ana Camila ✨
 
 ### About me
-<p>I'm Brazilian currently living in São Paulo. Nowadays I'm working at Zup Innovation as a front-end developer. I have a Bachelor degree in Computer Science at Faculdade de Ciências Aplicadas e Sociais de Petrolina located in Brazil. I have work experience in HTML 5, CSS 3 (Sass), JavaScript (TS), Angular 8, Git, Jenkins, Bootstrap and Wordpress. I also have knowledge in back end development with Java and Springboot. Even though I have a strong knowledge in front-end development I don't narrow myself to just this, I'm always learning how to delivery a software end-to-end taking DevOps courses and cloud computing with Azure and AWS. I'm fluent in English and basic in Spanish and German. </p>
+<p>I'm Brazilian currently living in São Paulo. Nowadays I'm working at Zup Innovation as a front-end developer. I have a Bachelor degree in Computer Science at Faculdade de Ciências Aplicadas e Sociais de Petrolina located in Brazil. I have work experience in HTML 5, CSS 3 (Sass), JavaScript (TS), Angular 5+, Git, Jenkins, Bootstrap and Wordpress. I also have knowledge in back end development with Java and Springboot. Even though I have a strong knowledge in front-end development I don't narrow myself to just this, I'm always learning how to delivery a software end-to-end taking DevOps courses and cloud computing with Azure and AWS. I'm fluent in English and basic in Spanish and German. </p>
 
 ### My skills
 
