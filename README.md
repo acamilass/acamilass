@@ -21,7 +21,7 @@
 ### My social media
 
 <a href="https://acamilass.dev/"><img src="https://img.shields.io/badge/-acamilass.dev-53A6BE?style=for-the-badge&logo=headspace&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anacamilass/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/acamilass/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://acamilass.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 <div>
