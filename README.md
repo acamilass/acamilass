@@ -26,7 +26,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acamilass&theme=material-palenight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamilass&layout=compact&theme=material-palenight&card_width=400&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamilass&layout=compact&theme=material-palenight&langs_count=6"/>
 </div>
 
 
